@@ -1,0 +1,5 @@
+javac -h . FrameNative.java
+javac -h . JournalNative.java
+javac -h . ReaderNative.java
+javac -h . WriterNative.java
+
